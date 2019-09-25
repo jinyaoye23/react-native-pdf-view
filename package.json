@@ -6,7 +6,7 @@
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnjon/react-native-pdf-view.git"
+    "url": "git+https://github.com/fenglu09/react-native-pdf-view.git"
   },
   "keywords": [
     "react-component",
@@ -17,12 +17,12 @@
     "view"
   ],
   "author": {
-    "name": "cnjon",
-    "url": "https://github.com/cnjon"
+    "name": "Jason",
+    "url": "https://github.com/fenglu09"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cnjon/react-native-pdf-view/issues"
+      "url": "https://github.com/fenglu09/react-native-pdf-view/issues"
   },
   "peerDependencies": {
     "@types/react": "*",
